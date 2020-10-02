@@ -19,6 +19,7 @@ Resources
 ## Hackathon Project Stream 2 ** Extending Federated Privacy Contract Framework (GA4GH) with OPN ** 
 
 Overall Objective of this hack:
+Federated Privacy Goverance vs Decentralised Governance - with OPN: Master Data Controls
 goal is to implement modular data governance agreements in CCS format, and to connect that with standards for documents, ontologies and technologies that implement them.
 
 We'll work from a couple of directions towards a full solution.
