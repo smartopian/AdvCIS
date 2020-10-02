@@ -16,7 +16,7 @@ Resources
 * Select an OPN Clause to make from the OPN Hack List Matrix - find an issue needs Privacy Agreement Clauses e.g. transparent surviellance by desing and surveillance by consent for the proportional safeguards (see PIPEDA Principal 7 and Meaningful Consent Law) with the use identity management technologies.
 *  Hack Sub-Challenge -- Find an invalid contract cluse in privacy policies or Terms of Use that violate privacy by design - e.g. meta-data, AI and make a clause
 
-## Hackathon Project Stream 2 ** Extending Federated Privacy Contract Framework (GA4GH) with OPN ** 
+## Hackathon Project Stream 2 ** with Common Accord and the EU Contract Frabric - Extending Federated Privacy Contract Framework (GA4GH) with OPN ** 
 
 Overall Objective of this hack:
 Federated Privacy Goverance vs Decentralised Governance - with OPN: Master Data Controls
