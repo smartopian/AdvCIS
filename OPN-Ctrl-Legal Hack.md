@@ -9,6 +9,7 @@ Instructions
 * use the reference material for making Privacy Agreement Clauseses - (add to the reference material for making a clause)
 * write a clause that can be used to replace/supercede the surveillance by design with consent by design (e.g consent before surveillance) 
 * conribute the clause to proposed - International GitLaw - OPN Clause Repository- (and contribute to the proposal)-OCG-OPN-Ctrl-Repo
+* for common accord data models
 
 Resources 
 * Consent Type Rights Profile Matrix for GDPR (and alternative CoE 108+)
@@ -21,6 +22,9 @@ Resources
 Overall Objective of this hack:
 Federated Privacy Goverance vs Decentralised Governance - with OPN: Master Data Controls
 goal is to implement modular data governance agreements in CCS format, and to connect that with standards for documents, ontologies and technologies that implement them.
+
+Using Common Accord Data Models - https://github.com/CommonAccord/DataGovernanceModules
+
 
 We'll work from a couple of directions towards a full solution.
 
