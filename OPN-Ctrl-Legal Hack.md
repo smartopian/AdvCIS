@@ -1,4 +1,7 @@
 AdvCIS - OPN - Legal Hackathon Project
+
+
+
 # The aNG - Digital Rights Hackathon for International Human Centric Data Controls
 
 ## Hackathon Project Stream 1 ** Digital Rights - Master Rights Contracts for Cascading Master Data Legal Control standards **
