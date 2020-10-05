@@ -1,10 +1,14 @@
+
+*  [aNG- Interacive Sumit on Personal Data Governance](https://www.anewgovernance.org/2020/09/17/interactive-summit-on-personal-data-governance/)
+
+
 ** Automating PII Principal / Data Subject Rights and Data Controls For Computational Privacy Law **
 
-Led By 
-Mark Lizar Open Consent Group UK & Smart Species Canada - Mission is to support International Decentralised Data Governance and 
-James Hazzard - Common Accord Mission to modularise law refine and reuse the same law - 
+Session Tues 6th, Oct Led By 
+- Mark Lizar Open Consent Group UK & Smart Species Canada - Mission is to support International Decentralised Data Governance and Meaningful Consent
+- James Hazzard - Common Accord Mission to modularise law refine and reuse the same law - 
 
-## OPN-Ctrl- International GitLaw Repo-Proposal
+## OPN-Ctrl- International GitLaw Repo-Project
 
 This is apart of a long term multi-standard community initiatives and 20 years of OECD to ISO standardisation for cross border data governance.
 
@@ -39,26 +43,27 @@ Why an International GitLaw Repository
 
 ## Git Instructions
 
-- Make account on Gitub
-- Clone repository this repository - which will include privacy rights clause and references
-- Edit the page - change name to your name - save
-- Pull-request -
-   - International GitLaw Project
-
+1. Register an [account on Gitub]([https://github.com] if you dont have one already  
+2. From your browser - log into Github and navigate to the OPN-Accord Repository. [At this link](https://)  
+Clone this repository - by clicking ont  which will include the privacy rights clause and references
+3. Edit the page - change name to your name - save
+4. Pull-request -
+5. International GitLaw Project
 
 ## Hack Resources
 
-Operational Notice & Consent Receipt Specification V 1.2 (Standards Candidate) https://docs.google.com/document/d/1UjwYuu_-0_JnskDA29PfzRq5XXQYVZHu7QIeEduBS6w/edit?usp=sharing
-
+- Operational Notice & Consent Receipt Specification [V 1.2](https://docs.google.com/document/d/1UjwYuu_-0_JnskDA29PfzRq5XXQYVZHu7QIeEduBS6w/edit?usp=sharing 
 Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsent.atlassian.net/l/c/XZBQURMn
 
 ## Background:
 
-To address these data governance challenges there has been a long term year effort to standardise guidelines for transborder flows of personal data for online identification and personal data management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
+To address data governance challenges there has been a longnitudnal effort to standardise guidelines for transborder flows of personal data for online identification and digital identity/surviellance management. In this regard the international standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from online privacy notice and consent.
 
-Privacy policies and terms of use that people are suppose to read and learn have been show to be the Biggest Lie on The Internet, rather than notice and consent, online services are governed by terms of services and online privacy policy regardless of the physical context, in which the person / "user" is expected to read and understand this policies. Each service having its own policy and terms. An issue dogged by the movies like "terms and conditions may apply", "the greatest hack", and the. "social dilemma" these policies and terms are contracts of adhesion dressed up as consent. Without transparent security, strong (or better legal transparency), meaningful notice and proportional use of rights.
+Privacy policies and terms of use that people are suppose to read and learn have been callled out as the Biggest Lie on The Internet, where services pretend to get consent (to policies no one can read or track).  Without notice and consent standards there is very weak transparency online which is now a sever data breach of the most sensitive kinds in many societies.  An industry now dogged by  movies like "terms and conditions may apply", "the greatest hack", and the. "social dilemma" these policies and terms are contracts of adhesion dressed up as consent. Dependent on the Terms of use of the device manufacturer, the browser and the law.  Policies Without transparent security, strong (or better legal transparency), meaningful notice and proportional use of rights are just not trustworhty.
 
-Key Points Standard Clause should be aware of
+Trustwothiness in creatd by knowing what to expect. 
+
+## Key Points Standard Clause should be aware of
 
 Surveillance by Design - Online surveillance dark patterns in consent and notice put people at risk of harms in an increasing number of ways as the power of big data technology grows. These dark patterns, also known as surveillance by design makes explicit consent for special/sensitive data categories low quality. Especially if consent is 100% dependent on online privacy Notice.
 
