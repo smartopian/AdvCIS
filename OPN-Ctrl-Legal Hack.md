@@ -43,11 +43,11 @@ These dark patterns, also known as surveillance by design makes explicit consent
 #### Strong transparency is missing for digital services - little transparency over the legal entities and privacy risks and 
 Key Risks over the use of Digital Identity Management 
 
-#### Meta-Data -  Identitifier Management Transprency is critical component of any clause. (e.g. restricting identification or identifiers tracking,  cross-site profiling,  with cookies and beacons.  Especially for data trusts like parental consent, medical research, etc which require consent by design, where metadata and big data is a human resource (not a capitalistic one) 
+#### Meta-Data -  Identitifier Management Transprency 
+is critical component of any clause. (e.g. restricting identification or identifiers tracking,  cross-site profiling,  with cookies and beacons.  Especially for data trusts like parental consent, medical research, etc which require consent by design, where metadata and big data is a human resource (not a capitalistic one) 
 
 #### Secondary Use 
 
- 
 - Surveillance before explict consent to surveillance (when consent is lawfuly required) is not meaningful consent and is un-trustworthy.  In most contexts this is considered a breach of security as notice and consent is required for lawful data processing (with some exceptions)  
 
 Secondary Use of Data - for example - context based advertisng - wihtout context based privacy safegurds - write a privacy agreement clause for restricting secondry use of data for advertising 
