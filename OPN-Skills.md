@@ -4,7 +4,7 @@
 
 1.1 OECD Trans-border Guidelines
 
-1.2 AdvCIS v1.2: Operational Notice & Consent - ISO/IEC 29100 Security Privacy Framework - Terms & Definitions
+1.2 AdvCIS v1.2: Operational Notice & Consent Reciept - ISO/IEC 29100 +  29184 for Security Privacy Framework - Terms & Definitions & Online privacy controls
 
 1.3 Legal Jurisdiction Privacy Regulation : GDPR
 
