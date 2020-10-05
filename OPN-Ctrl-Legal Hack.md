@@ -3,19 +3,31 @@ AdvCIS - OPN - Legal Hackathon Project
 # The aNG - Digital Human Rights Hackathon for International Human Centric Data Controls
 
 ## Hackathon Project Stream 1 **  PII Principal /  Data Subject Rights and Data Controls **
-1. Write a standard contrctual clause to supercede terms of online services for Data Rights which mandate consisten control performance, consider key issues (and well know problems) 
-2. use toosl to scan for fake privacy and to craft a notice  Use the Resourcecs provided to use the standard contractul clauses to provide dat rights - whch can later be automated  
 
-The first hack is apart of a long term project to drive human to service contacts - to start ro enahance  privcy policies and reverse the #FakePrivacy burden of policy reading with receipts that link to standard clauses for data rights that lawyers can use . 
+The first hack is apart of a long term project to drive human to service contacts - to start to enahance  privcy policies and Terms of Use in a way that reverses the #FakePrivacy burden of policy. After a decade of standards develeopment a new digital ISO standardard for Operational Notice & Consent Receipts can now be put to the test.   Generating data rights links with the use of standard clauses for data rights  lawyers to use with some basic computational rights law logic. 
 
-The second challenge expands on the first. 
 
-In this hackathon 
-Create Digital Rights Clauses 
+1. Challenge 1:  Write a standard contrctual clause to supercede terms of online services for Data Rights which mandate consisten control performance, consider key issues (and well know problems) 
 
-This project proposes automting access to data rights with identiy accessment management 
+Privacy Rights - Consent Types for Master Data Controls  https://openconsent.atlassian.net/l/c/Gw2dCTwL
+- review the Privacy rights, Consent Type and legal justifiction obligtions and consideration 
+- use this material to draft standard clause for the use of privacy rights for data controls. 
 
-- For the GDPR Rights - crafte standard contractul clauses for provising privacy rights  as detail on the Privacy Rights With COnsent Types 
+- Pubish Clause to AdvCIS or to GitHub  
+
+Optional
+- Create a new Consent Type Profile for a differnt legislative framework - e.g. CoE 108 +, or COPPA  and add this to the AdvCIS Wikit profile. 
+
+
+2. Challeng 2:  (TBF)
+a) Use tools to scan Terms oF Use for Online services to identity fake privacy clauses - (like you must read this policy each time you use this service) 
+
+b) send a notice to use a contractul clauses to provide PII Principal with data control rights using links to a provided receipt
+
+Operational Notice & Consent Receipt Speccification V 1.2 (Standards Candidate) https://docs.google.com/document/d/1UjwYuu_-0_JnskDA29PfzRq5XXQYVZHu7QIeEduBS6w/edit?usp=sharing
+
+Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsent.atlassian.net/l/c/XZBQURMn
+
 
 Background: 
 
@@ -24,50 +36,38 @@ To address these data governance challenges there has been a long term year effo
 Privacy policies and terms of use that people are suppose to read and learn have been show to be the Biggest Lie on The Internet, rather than notice and consent, online services are governed by terms of services and online privacy policie regardless of the physical context, in which the person / "user" is expected to read and understand this policies.  Each service having its own policy and terms.  An issue dogged by the movies like "terms and conditions may apply", "the greatest hack", and the. "social dilema" these policies and terms are contracts of adhesion dressed up as consent. Without transparent security, strong (or better legal transparency),  meaningful notice and proportional use of rights.
 
 
-## Key Points to Cover
+## Key Points Standard Clause should be aware of
 Surveillance by Design - Online surveillance dark patterns in consent and notice put people at risk of harms in an increasing number of ways as the power of big data technology grows. 
 These dark patterns, also known as surveillance by design makes explicit consent for special/sensitive data categories low quality.  Especially if consent is 100% dependent on online privacy Notice.
 
-#### Strong transparency over the legal entities and privacy risks provide people privacy.  
+#### Strong transparency is missing for digital services - little transparency over the legal entities and privacy risks and 
 Key Risks over the use of Digital Identity Management 
 
 #### Meta-Data -  Identitifier Management Transprency is critical component of any clause. (e.g. restricting identification or identifiers tracking,  cross-site profiling,  with cookies and beacons.  Especially for data trusts like parental consent, medical research, etc which require consent by design, where metadata and big data is a human resource (not a capitalistic one) 
 
 #### Secondary Use 
 
-
-## Legal Hacking : OPN Project for Digital Data Controls 
-
-This hack project, continues a hack tradition that requires applying newly minited international standards for online notice and consent controls to create privacy agreeement clauses, for master data controls.  These controls  will be used to provide examples/alterntives for transparent notice where people have the controls. 
-
-* 1. write a Privacy Agreement Clause for a privcy agreement a Person would give to a service for explicit consent to over ride terms of services and privacy contract clauses. 
-
-* 2. Create a new Operational Privacy Notice - from the templated OPN Notice to create privacy agreement terms that address systemic data control issues
-
-
-### Key Points for Privacy Clauses Construction
  
 - Surveillance before explict consent to surveillance (when consent is lawfuly required) is not meaningful consent and is un-trustworthy.  In most contexts this is considered a breach of security as notice and consent is required for lawful data processing (with some exceptions)  
 
 Secondary Use of Data - for example - context based advertisng - wihtout context based privacy safegurds - write a privacy agreement clause for restricting secondry use of data for advertising 
 
-- Meta-Data - is captured and aggregated - when is this, and when is this not permitted 
-
-- Transprency over 3rd Party discolsures and beneficial owners of data processing (e.g. 2nd party Conrtroller or 3rd party is explicit) are provided with a short linked notice receipt to the original Notice for a record of data processing. 
+Transprency over 3rd Party discolsures and beneficial owners of data processing (e.g. 2nd party Conrtroller or 3rd party is explicit) are provided with a short linked notice receipt to the original Notice for a record of data processing. 
 
 Core example: 
 For data trusts or self soverign - master data control management the meta-data and big data benefits are under a fiduciary trust.   (like chidrens education records), Privacy information should be automaitcally sourced, meta-data, secondary use of data, the source of the data  and data inferred  produced by the system.  
 
 
-Instructions
-* select a privacy right - imagine a receipt for dat processing that has a link to use the right that the info in the receipt cn be automated, what standard contrctul clauses could be creted to facilite the use of the rights in a consistent way . 
+## Instructions
+* select a privacy right https://openconsent.atlassian.net/l/c/X3CiTTqF  - imagine a data receipt is  generated/provided for data processing that has a link to use a right that the info in the receipt cn be automated, what standard contrctul clauses could be creted to facilite the use of the rights in a consistent way . 
 
-* use the reference material for making Privacy Rights Clauses  - (add to the reference material for making a clause) 
+* use the reference material for making Privacy Rights Clauses that enhne policy and terms   - (add to the reference material for making a clause) 
 
 ## Resources 
 * Data Subject Master Data Controls: Select legal justifiction - For Consent Type Profile - and the Data Controls Rights   Matrix for GDPR (and alternative CoE 108+)
 * Clause Ref Material: Operational Privacy Notice & Consent Receipt V1.2 (consolidated version) - Combines ISO 29100 + 29184 controls for innovation 
 * Select an OPN Clause to make from the OPN Hack List Matrix - find an issue needs Privacy Agreement Clauses e.g. transparent surviellance by desing and surveillance by consent for the proportional safeguards (see PIPEDA Principal 7 and Meaningful Consent Law) with the use identity management technologies.
+
 *  Hack Sub-Challenge -- Find an invalid contract cluse in privacy policies or Terms of Use that violate privacy by design - e.g. meta-data, AI and make a clause
 
 
