@@ -78,6 +78,6 @@ Key Risks over the use of Digital Identity Management
 Surveillance before explicit consent to surveillance (when consent is lawfully required) is not meaningful consent and is un-trustworthy. In most contexts this is considered a breach of security as notice and consent is required for lawful data processing (with some exceptions)
 Secondary Use of Data - for example - context based advertising - without context based privacy safeguards - write a privacy agreement clause for restricting secondary use of data for advertising
 
-Transparency over 3rd Party disclosures and beneficial owners of data processing (e.g. 2nd party Controller or 3rd party is explicit) are provided with a short linked notice receipt to the original Notice for a record of data processing.
+Transparency over 3rd Party disclosures and beneficial owners of data processing (e.g. Controller or 3rd party requires explicit notice of risk, and consented purpose specification) - write a clause for (no-consent needed - legitimate interest which provides contractual obligation to follow this cloause to provide in-time or conextual data rights controls )
 
 Core example: For data trusts or self sovereign - master data control management the meta-data and big data benefits are under a fiduciary trust. (like children's education records), Privacy information should be automatically sourced, meta-data, secondary use of data, the source of the data and data inferred produced by the system.
