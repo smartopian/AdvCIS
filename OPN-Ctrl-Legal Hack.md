@@ -2,7 +2,7 @@ AdvCIS - OPN - Legal Hackathon Project
 
 # The aNG - Digital Human Rights Hackathon for International Human Centric Data Controls
 
-## Hackathon Project Stream 1 **  PII Principal /  Data Subject Rights and Data Controls **
+## Hackathon Project Stream 1 **  Automating PII Principal /  Data Subject Rights and Data Controls **
 
 The first hack is apart of a long term project to drive human to service contacts - to start to enahance  privcy policies and Terms of Use in a way that reverses the #FakePrivacy burden of policy. After a decade of standards develeopment a new digital ISO standardard for Operational Notice & Consent Receipts can now be put to the test.   Generating data rights links with the use of standard clauses for data rights  lawyers to use with some basic computational rights law logic. 
 
@@ -15,11 +15,11 @@ Privacy Rights - Consent Types for Master Data Controls  https://openconsent.atl
 
 - Pubish Clause to AdvCIS or to GitHub  
 
-Optional
+#### Optional
 - Create a new Consent Type Profile for a differnt legislative framework - e.g. CoE 108 +, or COPPA  and add this to the AdvCIS Wikit profile. 
 
 
-2. Challeng 2:  (TBF)
+2. Challeng 2:  (TBF) Computational Privacy. + Contract Law
 a) Use tools to scan Terms oF Use for Online services to identity fake privacy clauses - (like you must read this policy each time you use this service) 
 
 b) send a notice to use a contractul clauses to provide PII Principal with data control rights using links to a provided receipt
@@ -29,7 +29,7 @@ Operational Notice & Consent Receipt Speccification V 1.2 (Standards Candidate) 
 Notice & Consent Receipt : Standard Notice & Consent Controls https://openconsent.atlassian.net/l/c/XZBQURMn
 
 
-Background: 
+### Background: 
 
 To address these data governance challenges there has been a long term year effort to standardise guidelines for transborder flows of personal data for online identifiction and personal data management.  In this regard the internationl standard for Online Privacy and Consent Controls is recently published - with the use of receipt standard to capture privacy records from  online privacy notice and consent. 
 
