@@ -8,7 +8,7 @@ James Hazzard - Common Accord Mission to modularise law refine and reuse the sam
 
 This is apart of a long term multi-standard community initiatives and 20 years of OECD to ISO standardisation for cross border data governance.
 
-This is the first hack for aNG for international policy infrastructure and is apart of a long term series of community project which has driven decentralised human centric governance standards and best practice for identity management into the marketplace. Designed to enhance privacy policies and Terms of Use in a way that reverses the #FakePrivacy burden of policy.
+This is the first hack for aNG for international policy infrastructure and is apart of a long term series of community projects that has driven the development of decentralised notice and consent standards and best practice for identity management and surveillance technology. Designed to enhance privacy policies and Terms of Use in a way that addressess the #FakePrivacy burden of policy.
 
 After a decade of standards development the next generation privacy standard for Online Notice has been published.   standard for Operational Notice & Consent Receipts has been published June 2020 (ISO 29184 with the Notice & Consent Receipt) which we can finally put to good use.
 
@@ -24,9 +24,9 @@ Publish Clause to AdvCIS or to GitHub
 
 Objective is to make standard clauses for the International Repository - which supersede terms of service and provide data subject with master privacy data controls.
 
-To use the newly published (and long awaited) ISO Online Privacy Notice Controls combined into the Kantara AdvCIS: Operational Notice & Consent Receipt Specification to  , which provide an independent inter-national legal toolset for decentralised transparency and data control.  To put this resource to use it requires first the extra-territorial space and the formation of standardised contractual clauses as an alternative to what we have now.
+To use the newly published (and long awaited) ISO Online Privacy Notice Controls combined into the Kantara / AdvCIS: Operational Notice & Consent Receipt Specification V1.2, which provide an independent inter-national legal toolset for decentralised transparency and data control.  To put this resource to use it requires first the extra-territorial space and the formation of standardised contractual clauses as an alternative to what we have now.
 
-This approach to developing standard clauses for gitlaw aims to  begin this clause repository collaboratively together.  Using Common Accord so that clauses can be iterated upon through application, (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans.
+This approach to developing standard clauses for gitlaw aims to  begin this clause repository collaboratively together.  Using Common Accord so that clauses can be iterated upon through application, (reused rather than re-issued.)  With international transborder security and privacy rights so that all stakeholders can use the same standards to be interoperable with humans. In essence the evolution of a very old human innovation called the receipt.  
 
 Why an International GitLaw Repository
 - The objective of this hackathon is to further international computational law by creating and working on standard privacy contract clauses for extending privacy rights for transborder data flows to contracts and terms and services. Cross legal jurisdiction and identity surveillance domains with Master Data Right Controls.
